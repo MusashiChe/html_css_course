@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The div Element</title>
+        <style>
+
+            .red_square {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                background-color: red;
+                margin-right: 10px;
+            }
+            .green_circle {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                background-color: green;
+                border-radius: 100px;
+                border-style: solid;
+                margin-right: 10px;
+            }
+            .service_block {
+                display: inline-block;
+                border-style: groove;
+                width: 300px;
+                padding: 20px;
+                box-sizing: border-box;
+                border-radius: 2px;
+                vertical-align: top;
+                margin-bottom: 10px;
+            }
+            .service_text {
+                font-weight: bold;
+                font-family: Arial;
+            }
+            .install_music_block {
+                display: inline-block;
+                width: 400px;
+                background-color: black;
+                padding-left: 20px;
+                padding-right: 20px;
+
+            }
+            .install_text {
+                font-weight: bold;
+                color: white;
+                font-family: Arial;
+            }
+            .add_music_text {
+                color: grey;
+                font-family: Arial;
+            }
+            .cat_img {
+                width: 50px;
+                height: 50px;
+                border-radius: 100px;
+                object-fit: cover;
+                object-position: center;
+                vertical-align: middle;
+            }
+            .cat_happening_block {
+                margin-top: 10px;
+                box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+                border-radius: 6px;
+                width: 450px;
+                padding-bottom: 12px;
+                padding-left: 12px;
+                padding-right: 12px;
+                padding-top: 12px;
+
+            }
+
+            .search_happening {
+                border: none;
+                width: 300px;
+                height: 20px;
+            }
+
+            .tweet_button {
+                border-radius: 15px;
+                height: 30px;
+                width: 60px;
+                border: none;
+                background-color: blue;
+                color: white;
+                font-size: 13px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="red_square"></div>
+        <div class="green_circle"></div>
+        <div class="service_block">
+            <p class="service_text"> Satisfied with our service? </p>
+            <button class="yes_button">
+                Yes
+            </button>
+            <button class="no_button">
+                No
+            </button>
+        </div>
+        <div class="install_music_block">
+            <p class="install_text">
+                Install YouTube Music
+            </p>
+            <p class="add_music_text">
+                Add YouTube Music to your desktop for quick and easy access
+            </p>
+        </div>
+        <div class="cat_happening_block">
+            <img class="cat_img" src="cat_img.jpg">
+            <input class="search_happening" type="text" placeholder="What's happening?">
+            <button class="tweet_button">Tweet</button>
+        </div>
+    </body>
+</html>
