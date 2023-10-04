@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Nested Layouts Technique </title>
+        <style>
+
+               p {
+                    font-family: Arial;
+                    color: rgb(96, 96, 96);
+               }
+
+               .txt-name {
+                    font-weight: bold;
+                    color: black;
+               }
+
+               .card-block {
+                    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+                    width: 400px;
+                    border-radius: 4px;
+               }
+
+               .img-block {
+                    display: inline-block;
+                    vertical-align: middle;
+                    margin-left: 10px; 
+                    margin-right: 10px;
+               }
+
+               .img-pic {
+                    width: 40px ;
+                    height: 40px;
+                    object-fit: cover;
+                    border-radius: 25px;
+               }
+
+               .text-block {
+                    display: inline-block;
+                    vertical-align: middle;
+                    line-height: 2px;
+                    font-size: 15px;
+                    margin-right: 170px;
+               }
+
+               .button-block {
+                    display: inline-block;
+                    height: 50px;
+                    width: 70px;
+               }
+
+               .button-follow {
+                    margin-right: 0px;
+                    background-color: rgb(24, 119, 242);
+                    color: white;
+                    border: none;
+                    vertical-align: middle;
+                    border-radius: 5px;
+                    width: 60px;
+                    height: 30px;
+               }
+        </style>
+    </head>
+    <body>
+        <div class="card-block">
+            <div class="img-block">
+                <img class="img-pic" src="cat_img.jpg">
+            </div>
+            <div class="text-block">
+                <p class="txt-name">
+                    oliver
+                </p>
+                <p>
+                    the cat
+                </p>
+                <p>
+                    Popular
+                </p>
+            </div>
+            <div class="button-block">
+                <button class="button-follow">
+                    Follow
+                </button>
+            </div>
+        </div>
+    </body>
+</html>
