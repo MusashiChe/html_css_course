@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e37b15c6-07be-42ea-aa4f-b5dd69b4b138" name="Changes" comment="laptop 12a test" />
+    <list default="true" id="e37b15c6-07be-42ea-aa4f-b5dd69b4b138" name="Changes" comment="laptop 12a test">
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/12f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/12f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/13a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/13a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/13b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/13b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/14a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/14a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/14b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/14b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/14c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/14c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/15a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/15a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/15b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/15b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/15d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-to-html/tests/15d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/sidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro-to-html/tests/12a.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro-to-html/tests/12a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/general.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/youtube.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696889500059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="laptop 12a test">
+      <created>1696890751867</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696890751867</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,7 +101,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="origin/laptop" />
                       </list>
                     </value>
                   </entry>

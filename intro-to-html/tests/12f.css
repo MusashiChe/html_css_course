@@ -1,0 +1,40 @@
+    div {
+        font-family: Arial;
+    }
+    .header {
+        background-color: rgb(120, 82, 178);
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        height: 50px;
+        padding-left: 15px;
+        padding-right: 15px;
+        color: white;
+    }
+    .home-text {
+        font-weight: bold;
+        font-family: Arial;
+
+    }
+    .text-box {
+        font-family: Arial;
+        width: 500px;
+        height: 30px;
+        border-radius: 20px;
+        padding-left: 15px;
+        border: none;
+    }
+
+    button {
+        font-family: Arial;
+        background-color: rgb(120, 82, 178);
+        color: white;
+        border-color: white;
+        width: 100px;
+        height: 30px;
+        border-radius: 2px;
+        border-style: solid;
+        padding-left: 15px;
+        padding-right: 15px;
+    }

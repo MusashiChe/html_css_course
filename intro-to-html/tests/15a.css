@@ -1,0 +1,17 @@
+ body {
+    height: 3000px;
+ }
+
+ button {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    background-color: black;
+    color: white;
+    display: flex;
+    border-radius: 25px;
+    height: 45px;
+    width: 45px;
+    align-items: center;
+    justify-content: center;
+ }
